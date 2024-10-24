@@ -1,0 +1,5 @@
+cara membbuat folder baru menggunakan php laravel 8
+masuk ke direktiori htdocs = cd C:xampp/htdocs
+lalu cek installasi php kita dengan = php -v
+lalu cek installasi composer kita = composer -v
+jika sudah masukan ini "composer create-project --prefer-dist laravel/laravel project-name "8.*"
