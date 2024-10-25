@@ -3,3 +3,8 @@ masuk ke direktiori htdocs = cd C:xampp/htdocs
 lalu cek installasi php kita dengan = php -v
 lalu cek installasi composer kita = composer -v
 jika sudah masukan ini "composer create-project --prefer-dist laravel/laravel project-name "8.*"
+install depedency UI = composer require laravel/ui
+terus = php artisan ui bootstrap
+dan jalankan = npm install 
+dan juga = npm run dev
+dan install auth boostrap ini =  php artisan ui bootstrap --auth
